@@ -6,4 +6,5 @@ The following steps are applied in this program:
 2. Calculate the first order statistics features (mean and standard deviation)
 3. Split train and test data
 4. Classification
-The last function returns the accuracy of the model.<br>
+The last function returns the accuracy of the model.
+The model obtained > 80% accuracy
